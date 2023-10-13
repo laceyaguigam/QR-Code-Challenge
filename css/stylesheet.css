@@ -7,3 +7,6 @@ p {
     font-size: 15px;
 }
 
+.card-body {
+    background-color: hsl(0, 0%, 100%);
+}
