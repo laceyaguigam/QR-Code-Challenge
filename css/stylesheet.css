@@ -1,3 +1,9 @@
 * {
-    background-color: hsl(220, 15%, 55%)
+    background-color: hsl(220, 15%, 55%);
+    font-family: Outfit; 
 }
+
+p {
+    font-size: 15px;
+}
+
