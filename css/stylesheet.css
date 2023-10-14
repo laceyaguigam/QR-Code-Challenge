@@ -1,14 +1,28 @@
 * {
     background-color: hsl(212, 45%, 89%);
-    font-family: Outfit; 
+    font-family: Outfit;
 }
-
+ 
 p {
     font-size: 15px;
     font-weight: 400;
 }
 
 h5 {
-    font-weight: 700;
+    font-weight:700;
 
+}
+
+#text {
+    color: hsl(212, 455, 89%);
+}
+
+
+
+
+
+/* Imports outfit font */ 
+@font-face {
+    font-family: Outfit;
+    src: url(Outfit-VariableFont_wght.ttf);
 }
