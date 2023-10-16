@@ -3,11 +3,12 @@
     font-family: Outfit;
 }
  
-
+/* heading portion of the card */
 #heading {
     font-weight: 700;
 }
 
+/*text contentvportion of the card*/
 #text {
     font-size: 15px;
     color: hsl(212, 45%, 89%);
@@ -19,7 +20,7 @@
     
 }
 
-
+/* QR card border */
 #border {
     border: 15px white solid;
 }
