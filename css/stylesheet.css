@@ -3,25 +3,31 @@
     font-family: Outfit;
 }
  
-p {
-    font-size: 15px;
-    font-weight: 400;
-}
 
 #heading {
     font-weight: 700;
 }
 
 #text {
-    color: hsl(212, 455, 89%);
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+   
+   /* font weight and color dont work 
+    font-weight: 400;
+    color: hsl(212, 45%, 89%); */
+
+    
 }
 
 
+#border {
+    border: 15px white solid;
+}
 
 
 
 /* Imports outfit font */ 
 @font-face {
     font-family: Outfit;
-    src: url(Outfit-VariableFont_wght.ttf);
+    src: url(font/Outfit-VariableFont_wght.ttf);
 }
