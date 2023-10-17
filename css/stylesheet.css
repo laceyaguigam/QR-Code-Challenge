@@ -11,8 +11,11 @@
 /*text content portion of the card*/
 #text {
     font-size: 15px;
+    /*light gray color not working */
     color: hsl(212, 45%, 89%);
    font-weight: 400;
+  
+   
 }
 
 /* QR card border */
@@ -27,8 +30,12 @@
 
 #bottom {
     border: transparent;
+   background-color: white;
 }
 
+h5  {
+    background-color: transparent;
+}
 
 
 
