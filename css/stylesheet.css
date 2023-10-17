@@ -14,7 +14,7 @@
     /*light gray color not working */
     color: hsl(212, 45%, 89%);
    font-weight: 400;
-  
+ 
    
 }
 
@@ -37,7 +37,9 @@ h5  {
     background-color: transparent;
 }
 
-
+p {
+    background-color: transparent;
+}
 
 
 
