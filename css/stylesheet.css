@@ -1,6 +1,5 @@
 * {
     background-color: hsl(212, 45%, 89%);
-    font-family: Outfit;
 }
  
 /* heading portion of the card */
@@ -10,7 +9,6 @@
 
 /*text content portion of the card*/
 #text {
-    font-size: 15px;
     /*light gray color not working */
     color: hsl(213, 11%, 61%);
    font-weight: 400;
@@ -39,12 +37,8 @@ h5  {
 
 p {
     background-color: transparent;
+    font-size: 15px;
+    
 }
 
 
-
-/* Imports outfit font */ 
-@font-face {
-    font-family: Outfit;
-    src: url(font/Outfit-VariableFont_wght.ttf);
-}
