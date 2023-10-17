@@ -8,22 +8,32 @@
     font-weight: 700;
 }
 
-/*text contentvportion of the card*/
+/*text content portion of the card*/
 #text {
     font-size: 15px;
     color: hsl(212, 45%, 89%);
    
    /* font weight and color dont work 
     font-weight: 400;
-    color: hsl(212, 45%, 89%); */
-
-    
+    color: hsl(212, 45%, 89%); */ 
 }
 
 /* QR card border */
 #border {
     border: 15px white solid;
 }
+
+#top {
+    /*removed the gray border around the image */
+    border: transparent;
+}
+
+/* border of inside card content */
+.card {
+    border-style: none;
+}
+
+
 
 
 
