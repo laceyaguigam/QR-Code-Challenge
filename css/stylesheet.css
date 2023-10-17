@@ -28,10 +28,11 @@
     border: transparent;
 }
 
-/* border of inside card content */
-.card {
-    border-style: none;
+#bottom {
+    border: transparent;
 }
+
+
 
 
 
