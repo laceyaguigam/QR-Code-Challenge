@@ -50,7 +50,7 @@ This project has taught me how to import custom fonts into a project using two d
 ```
 ```css
 @fontface {
-  font-family: 'Outfit';
+  font-family: 'Outfit', 'Sans-serif';
   src: url (Outfit-VariableFont_wght.ttf);
 }
 ```
