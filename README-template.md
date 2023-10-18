@@ -83,10 +83,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- Stackoverflow (https://stackoverflow.com/) - This helped me find the answers to the problems I was having with my code. I was able to search for various problems that I was having and found multiple suggestions on how to solve the problem, I found helpful solutions with explanations.
+- Get Bootstrap (https://getbootstrap.com/docs/5.3/getting-started/introduction/) - This is the boostrap website, I am currently still learning how to use this framework. This site is helpful when you are learning how to create respoinsive pages.
+- MDN (https://developer.mozilla.org/en-US/docs/Web/CSS) - This is a great resource when you need a reference sheet for anything code related. I refer to this site when I need a code refresher in any languge, I recommend this site to all developers.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
