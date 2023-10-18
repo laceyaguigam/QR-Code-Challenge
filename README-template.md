@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -39,31 +38,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Bootstrap framework
 
-
-
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project has taught me how to import custom fonts into a project using two different methods. The first method is linking the font url in the head section and the second method is downloading the file(s), adding them into the project and then importing them into the project using css. 
 
-To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+</style> 
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+@fontface {
+  font-family: 'Outfit';
+  src: url (Outfit-VariableFont_wght.ttf);
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
