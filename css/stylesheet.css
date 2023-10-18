@@ -33,13 +33,14 @@
 }
 
 h5  {
-    background-color: transparent;
+    background-color: transparent; 
 }
 
 p {
     background-color: transparent;
-    font-size: 15px;
-    
+    font-size: 15px;  
 }
 
+@media (min-width: 375px) and (max-width: 1440px) {
 
+}
